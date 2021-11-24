@@ -1,4 +1,4 @@
-# Dasafio Pomodoro Mobile
+# Desafio Pomodoro Mobile
 
 
 Gestão do tempo é importante para que possamos definir prioridades em nossos a fazeres. Logo, a técnica Pomodoro foi desenvolvida no final dos anos 80 para que seu criador pudesse aumentar sua produtividade. Seu uso consiste em turnos de 25 minutos para trabalho intenso - pausas de 5 minutos e, ao final de 4 blocos de trabalho, tem-se uma pausa de 30 minutos.
